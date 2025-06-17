@@ -2,7 +2,7 @@
   {
     "id": "action",
     "name": "Action",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -19,7 +19,7 @@
   {
     "id": "adventure",
     "name": "Adventure",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -36,7 +36,7 @@
   {
     "id": "animation",
     "name": "Animation",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -53,7 +53,7 @@
   {
     "id": "anime",
     "name": "Anime",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -70,7 +70,7 @@
   {
     "id": "comedy",
     "name": "Comedy",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -87,7 +87,7 @@
   {
     "id": "concerts",
     "name": "Concerts",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -104,7 +104,7 @@
   {
     "id": "crime",
     "name": "Crime",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -121,7 +121,7 @@
   {
     "id": "drama",
     "name": "Drama",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -138,7 +138,7 @@
   {
     "id": "family",
     "name": "Family",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -155,7 +155,7 @@
   {
     "id": "fantasy",
     "name": "Fantasy",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -172,7 +172,7 @@
   {
     "id": "history",
     "name": "History",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -189,7 +189,7 @@
   {
     "id": "horror",
     "name": "Horror",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -206,7 +206,7 @@
   {
     "id": "mystery",
     "name": "Mystery",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -223,7 +223,7 @@
   {
     "id": "romance",
     "name": "Romance",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -240,7 +240,7 @@
   {
     "id": "science-fiction",
     "name": "Science Fiction",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -257,7 +257,7 @@
   {
     "id": "thriller",
     "name": "Thriller",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -274,7 +274,7 @@
   {
     "id": "war",
     "name": "War",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -291,7 +291,7 @@
   {
     "id": "westerns",
     "name": "Westerns",
-    "category": "Genre",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
