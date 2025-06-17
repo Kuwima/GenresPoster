@@ -6,7 +6,7 @@
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
-    "backgroundImageURL": "https://ifusion.netlify.app/images/genre/drama.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/Kuwima/GenresPoster/refs/heads/main/Drama.png",
     "iconName": "film",
     "showIcon": false,
     "nameDisplayMode": "Hidden",
